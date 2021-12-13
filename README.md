@@ -8,3 +8,5 @@
 файл override.tf и override.tf.json
 файлы кончающиеся на _override.tf и _override.tf.json
 файл .terraformrc и terraform.rc
+
+new line
