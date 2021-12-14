@@ -1,5 +1,6 @@
 # devops-netology
-mainm,mnanana
+experiment
+
 # Описание исключений в папке terraform:
 1. Все файлы из скрытой папки .terraform
 2. файлы с расширением tfstate или с расширением начинающимся на .tfstate.
@@ -9,8 +10,7 @@ mainm,mnanana
 6. файлы кончающиеся на _override.tf и _override.tf.json
 7. файл .terraformrc и terraform.rc
 1
-1
-1
-1
-1
-1
+12
+32
+321
+3
